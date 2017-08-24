@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MenuDemo.iml" filepath="$PROJECT_DIR$/MenuDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/floatwindowdemo/floatwindowdemo.iml" filepath="$PROJECT_DIR$/floatwindowdemo/floatwindowdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javatemplatemethod/javatemplatemethod.iml" filepath="$PROJECT_DIR$/javatemplatemethod/javatemplatemethod.iml" />
+    </modules>
+  </component>
+</project>
